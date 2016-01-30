@@ -1,2 +1,0 @@
-# juego.memoria.coursera
-# Velocimetro
